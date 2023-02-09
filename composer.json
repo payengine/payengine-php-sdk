@@ -1,0 +1,17 @@
+{
+    "name": "payengine/payengine-php",
+    "description": "PayEngine SDK",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PayEngine\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "PayEngine Team",
+            "email": "team@payengine.co"
+        }
+    ],
+    "license": "Apache-2.0"
+}
