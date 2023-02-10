@@ -1,5 +1,5 @@
 {
-    "name": "payengineco/payengine-php",
+    "name": "payengineco/payengine-php-sdk",
     "description": "PayEngine SDK",
     "require": {},
     "autoload": {
