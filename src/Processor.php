@@ -5,4 +5,4 @@
     |    GitHub: https://github.com/pk-fr/yakpro-po    |
     |__________________________________________________|
 */
- namespace PayEngine; final class EmulatorMode { const PAYRIX = array(Processor::PAYRIX); const STRIPE = array(Processor::STRIPE); const BOTH = array(Processor::PAYRIX, Processor::STRIPE); }
+ namespace PayEngine; final class Processor { const PAYRIX = "\160\x61\x79\x72\151\170"; const STRIPE = "\x73\164\x72\151\160\145"; }
